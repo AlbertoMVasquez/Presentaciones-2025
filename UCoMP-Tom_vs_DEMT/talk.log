@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.8.15)  10 MAR 2025 17:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.5.3)  10 MAR 2025 19:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -490,20 +490,7 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
-Package: sansmathaccent 2020/01/31
-
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
-
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
-Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
-Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
-)))))
+)))
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
@@ -697,20 +684,14 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 Package: multimedia 2012/05/02 ver 0.02
 \mm@movie=\count329
 )
-\sympureletters=\mathgroup6
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 47.
-
 (/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2021/04/25 v1.2e Bold Symbol Support (DPC/FMi)
-\symboldoperators=\mathgroup7
-\symboldletters=\mathgroup8
-\symboldsymbols=\mathgroup9
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
 Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
 Package bm Info: No bold for \U/msa/m/n, using \pmb.
 Package bm Info: No bold for \U/msb/m/n, using \pmb.
-\symboldpureletters=\mathgroup10
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fancybox/fancybox.sty
@@ -843,14 +824,8 @@ LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 76.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 76.
-\symnumbers=\mathgroup11
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 76.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/cmss/m/it on input line 7
-6.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/bx/sl --> OT1/cmss/m/it on input line 
-76.
+\symnumbers=\mathgroup9
+\sympureletters=\mathgroup10
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
 (Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 76.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 76.
@@ -883,16 +858,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 76.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 76.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 7
-6.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 7
-6.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 76.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -929,15 +894,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 110
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 110.
-
-(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-)
-[1
+) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 <fig/x_comp1074_1_105_Rsun.jpg, id=31, 903.375pt x 501.875pt>
@@ -978,11 +935,11 @@ e 130.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 Package epstopdf Info: Source file: <fig/comparison_ucomp_Sept2022_tom_vs_synth
 _E1074_ratio_range1_090-1_200_Rsun.eps>
-(epstopdf)                    date: 2025-02-25 10:56:07
+(epstopdf)                    date: 2025-03-10 19:47:59
 (epstopdf)                    size: 10844 bytes
 (epstopdf)             Output file: <fig/comparison_ucomp_Sept2022_tom_vs_synth
 _E1074_ratio_range1_090-1_200_Rsun-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-03-10 15:08:21
+(epstopdf)                    date: 2025-03-10 19:47:59
 (epstopdf)                    size: 9104 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig/comparison_ucomp_Sept2
 022_tom_vs_synth_E1074_ratio_range1_090-1_200_Rsun-eps-converted-to.pdf fig/com
@@ -1000,11 +957,11 @@ _range1_090-1_200_Rsun-eps-converted-to.pdf  used on input line 130.
 (pdftex.def)             Requested size: 95.8422pt x 68.45801pt.
 Package epstopdf Info: Source file: <fig/Average_Radial_Profiles_ucomp_Sept2022
 _tom_vs_synth_E1074.eps>
-(epstopdf)                    date: 2025-02-25 10:56:07
+(epstopdf)                    date: 2025-03-10 19:47:59
 (epstopdf)                    size: 8060 bytes
 (epstopdf)             Output file: <fig/Average_Radial_Profiles_ucomp_Sept2022
 _tom_vs_synth_E1074-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-03-10 15:08:21
+(epstopdf)                    date: 2025-03-10 19:47:59
 (epstopdf)                    size: 8074 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig/Average_Radial_Profile
 s_ucomp_Sept2022_tom_vs_synth_E1074-eps-converted-to.pdf fig/Average_Radial_Pro
@@ -1070,11 +1027,11 @@ e 150.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 Package epstopdf Info: Source file: <fig/comparison_ucomp_Sept2022_tom_vs_synth
 _E1079_ratio_range1_090-1_200_Rsun.eps>
-(epstopdf)                    date: 2025-02-25 10:56:07
+(epstopdf)                    date: 2025-03-10 19:47:59
 (epstopdf)                    size: 10599 bytes
 (epstopdf)             Output file: <fig/comparison_ucomp_Sept2022_tom_vs_synth
 _E1079_ratio_range1_090-1_200_Rsun-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-03-10 15:12:13
+(epstopdf)                    date: 2025-03-10 19:47:59
 (epstopdf)                    size: 9023 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig/comparison_ucomp_Sept2
 022_tom_vs_synth_E1079_ratio_range1_090-1_200_Rsun-eps-converted-to.pdf fig/com
@@ -1092,11 +1049,11 @@ _range1_090-1_200_Rsun-eps-converted-to.pdf  used on input line 150.
 (pdftex.def)             Requested size: 95.8422pt x 68.45801pt.
 Package epstopdf Info: Source file: <fig/Average_Radial_Profiles_ucomp_Sept2022
 _tom_vs_synth_E1079.eps>
-(epstopdf)                    date: 2025-02-25 10:56:07
+(epstopdf)                    date: 2025-03-10 19:47:59
 (epstopdf)                    size: 6744 bytes
 (epstopdf)             Output file: <fig/Average_Radial_Profiles_ucomp_Sept2022
 _tom_vs_synth_E1079-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-03-10 15:12:13
+(epstopdf)                    date: 2025-03-10 19:47:59
 (epstopdf)                    size: 7751 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig/Average_Radial_Profile
 s_ucomp_Sept2022_tom_vs_synth_E1079-eps-converted-to.pdf fig/Average_Radial_Pro
@@ -1127,47 +1084,47 @@ onverted-to.pdf>]
 <fig/Ne_ucomp_1_105_Rsun.jpg, id=116, 903.375pt x 501.875pt>
 File: fig/Ne_ucomp_1_105_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_ucomp_1_105_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_ucomp_1_105_Rsun.jpg  used on input line 173.
+Package pdftex.def Info: fig/Ne_ucomp_1_105_Rsun.jpg  used on input line 172.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/Ne_aia_1_105_Rsun.jpg, id=118, 903.375pt x 501.875pt>
 File: fig/Ne_aia_1_105_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_aia_1_105_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_aia_1_105_Rsun.jpg  used on input line 173.
+Package pdftex.def Info: fig/Ne_aia_1_105_Rsun.jpg  used on input line 172.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/Ne_kcor_1_105_Rsun.jpg, id=120, 903.375pt x 501.875pt>
 File: fig/Ne_kcor_1_105_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_kcor_1_105_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_kcor_1_105_Rsun.jpg  used on input line 173.
+Package pdftex.def Info: fig/Ne_kcor_1_105_Rsun.jpg  used on input line 172.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/Ne_ucomp_1_145_Rsun.jpg, id=122, 903.375pt x 501.875pt>
 File: fig/Ne_ucomp_1_145_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_ucomp_1_145_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_ucomp_1_145_Rsun.jpg  used on input line 173.
+Package pdftex.def Info: fig/Ne_ucomp_1_145_Rsun.jpg  used on input line 172.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/Ne_aia_1_145_Rsun.jpg, id=124, 903.375pt x 501.875pt>
 File: fig/Ne_aia_1_145_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_aia_1_145_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_aia_1_145_Rsun.jpg  used on input line 173.
+Package pdftex.def Info: fig/Ne_aia_1_145_Rsun.jpg  used on input line 172.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/Ne_kcor_1_145_Rsun.jpg, id=126, 903.375pt x 501.875pt>
 File: fig/Ne_kcor_1_145_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_kcor_1_145_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_kcor_1_145_Rsun.jpg  used on input line 173.
+Package pdftex.def Info: fig/Ne_kcor_1_145_Rsun.jpg  used on input line 172.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/Ne_ucomp_1_195_Rsun.jpg, id=128, 903.375pt x 501.875pt>
 File: fig/Ne_ucomp_1_195_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_ucomp_1_195_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_ucomp_1_195_Rsun.jpg  used on input line 173.
+Package pdftex.def Info: fig/Ne_ucomp_1_195_Rsun.jpg  used on input line 172.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/Ne_aia_1_195_Rsun.jpg, id=130, 903.375pt x 501.875pt>
 File: fig/Ne_aia_1_195_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_aia_1_195_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_aia_1_195_Rsun.jpg  used on input line 173.
+Package pdftex.def Info: fig/Ne_aia_1_195_Rsun.jpg  used on input line 172.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/Ne_kcor_1_195_Rsun.jpg, id=132, 903.375pt x 501.875pt>
 File: fig/Ne_kcor_1_195_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_kcor_1_195_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_kcor_1_195_Rsun.jpg  used on input line 173.
+Package pdftex.def Info: fig/Ne_kcor_1_195_Rsun.jpg  used on input line 172.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
  [4
 
@@ -1177,16 +1134,16 @@ _105_Rsun.jpg> <./fig/Ne_ucomp_1_145_Rsun.jpg> <./fig/Ne_aia_1_145_Rsun.jpg> <.
 5_Rsun.jpg> <./fig/Ne_kcor_1_195_Rsun.jpg>]
 Package epstopdf Info: Source file: <fig/comparison_ucomp_vs_aia_ratio_range1_0
 90-1_200_Rsun.eps>
-(epstopdf)                    date: 2025-03-10 17:56:34
+(epstopdf)                    date: 2025-03-10 19:47:59
 (epstopdf)                    size: 10742 bytes
 (epstopdf)             Output file: <fig/comparison_ucomp_vs_aia_ratio_range1_0
 90-1_200_Rsun-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-03-10 17:56:37
+(epstopdf)                    date: 2025-03-10 19:47:59
 (epstopdf)                    size: 8913 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig/comparison_ucomp_vs_ai
 a_ratio_range1_090-1_200_Rsun-eps-converted-to.pdf fig/comparison_ucomp_vs_aia_
 ratio_range1_090-1_200_Rsun.eps>
-(epstopdf)             \includegraphics on input line 187.
+(epstopdf)             \includegraphics on input line 186.
 Package epstopdf Info: Output file is already uptodate.
 <fig/comparison_ucomp_vs_aia_ratio_range1_090-1_200_Rsun-eps-converted-to.pdf, 
 id=150, 505.89pt x 361.35pt>
@@ -1195,20 +1152,20 @@ pdf Graphic file (type pdf)
 <use fig/comparison_ucomp_vs_aia_ratio_range1_090-1_200_Rsun-eps-converted-to.p
 df>
 Package pdftex.def Info: fig/comparison_ucomp_vs_aia_ratio_range1_090-1_200_Rsu
-n-eps-converted-to.pdf  used on input line 187.
+n-eps-converted-to.pdf  used on input line 186.
 (pdftex.def)             Requested size: 154.03183pt x 110.02136pt.
 Package epstopdf Info: Source file: <fig/comparison_kcor_vs_ucomp_ratio_range1_
 090-1_200_Rsun.eps>
-(epstopdf)                    date: 2025-03-10 17:57:18
+(epstopdf)                    date: 2025-03-10 19:47:59
 (epstopdf)                    size: 11044 bytes
 (epstopdf)             Output file: <fig/comparison_kcor_vs_ucomp_ratio_range1_
 090-1_200_Rsun-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-03-10 17:57:21
+(epstopdf)                    date: 2025-03-10 19:47:59
 (epstopdf)                    size: 9124 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig/comparison_kcor_vs_uco
 mp_ratio_range1_090-1_200_Rsun-eps-converted-to.pdf fig/comparison_kcor_vs_ucom
 p_ratio_range1_090-1_200_Rsun.eps>
-(epstopdf)             \includegraphics on input line 187.
+(epstopdf)             \includegraphics on input line 186.
 Package epstopdf Info: Output file is already uptodate.
 <fig/comparison_kcor_vs_ucomp_ratio_range1_090-1_200_Rsun-eps-converted-to.pdf,
  id=152, 505.89pt x 361.35pt>
@@ -1217,20 +1174,20 @@ File: fig/comparison_kcor_vs_ucomp_ratio_range1_090-1_200_Rsun-eps-converted-to
 <use fig/comparison_kcor_vs_ucomp_ratio_range1_090-1_200_Rsun-eps-converted-to.
 pdf>
 Package pdftex.def Info: fig/comparison_kcor_vs_ucomp_ratio_range1_090-1_200_Rs
-un-eps-converted-to.pdf  used on input line 187.
+un-eps-converted-to.pdf  used on input line 186.
 (pdftex.def)             Requested size: 154.03183pt x 110.02136pt.
 Package epstopdf Info: Source file: <fig/Average_Radial_Profiles_ucomp_vs_aia.e
 ps>
-(epstopdf)                    date: 2025-03-10 17:56:34
+(epstopdf)                    date: 2025-03-10 19:47:59
 (epstopdf)                    size: 8896 bytes
 (epstopdf)             Output file: <fig/Average_Radial_Profiles_ucomp_vs_aia-e
 ps-converted-to.pdf>
-(epstopdf)                    date: 2025-03-10 17:56:37
+(epstopdf)                    date: 2025-03-10 19:47:59
 (epstopdf)                    size: 8261 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig/Average_Radial_Profile
 s_ucomp_vs_aia-eps-converted-to.pdf fig/Average_Radial_Profiles_ucomp_vs_aia.ep
 s>
-(epstopdf)             \includegraphics on input line 187.
+(epstopdf)             \includegraphics on input line 186.
 Package epstopdf Info: Output file is already uptodate.
 <fig/Average_Radial_Profiles_ucomp_vs_aia-eps-converted-to.pdf, id=154, 505.89p
 t x 361.35pt>
@@ -1238,20 +1195,20 @@ File: fig/Average_Radial_Profiles_ucomp_vs_aia-eps-converted-to.pdf Graphic fil
 e (type pdf)
 <use fig/Average_Radial_Profiles_ucomp_vs_aia-eps-converted-to.pdf>
 Package pdftex.def Info: fig/Average_Radial_Profiles_ucomp_vs_aia-eps-converted
--to.pdf  used on input line 187.
+-to.pdf  used on input line 186.
 (pdftex.def)             Requested size: 154.03183pt x 110.02136pt.
 Package epstopdf Info: Source file: <fig/Average_Radial_Profiles_kcor_vs_ucomp.
 eps>
-(epstopdf)                    date: 2025-03-10 17:56:34
+(epstopdf)                    date: 2025-03-10 19:47:59
 (epstopdf)                    size: 7192 bytes
 (epstopdf)             Output file: <fig/Average_Radial_Profiles_kcor_vs_ucomp-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2025-03-10 17:56:38
+(epstopdf)                    date: 2025-03-10 19:47:59
 (epstopdf)                    size: 7731 bytes
 (epstopdf)             Command: <repstopdf --outfile=fig/Average_Radial_Profile
 s_kcor_vs_ucomp-eps-converted-to.pdf fig/Average_Radial_Profiles_kcor_vs_ucomp.
 eps>
-(epstopdf)             \includegraphics on input line 187.
+(epstopdf)             \includegraphics on input line 186.
 Package epstopdf Info: Output file is already uptodate.
 <fig/Average_Radial_Profiles_kcor_vs_ucomp-eps-converted-to.pdf, id=156, 505.89
 pt x 361.35pt>
@@ -1259,10 +1216,10 @@ File: fig/Average_Radial_Profiles_kcor_vs_ucomp-eps-converted-to.pdf Graphic fi
 le (type pdf)
 <use fig/Average_Radial_Profiles_kcor_vs_ucomp-eps-converted-to.pdf>
 Package pdftex.def Info: fig/Average_Radial_Profiles_kcor_vs_ucomp-eps-converte
-d-to.pdf  used on input line 187.
+d-to.pdf  used on input line 186.
 (pdftex.def)             Requested size: 154.03183pt x 110.02136pt.
 
-Overfull \vbox (9.3975pt too high) detected at line 187
+Overfull \vbox (9.3975pt too high) detected at line 186
  []
 
 [5
@@ -1285,13 +1242,13 @@ Package rerunfilecheck Info: File `talk.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22602 strings out of 480144
- 444583 string characters out of 5893198
- 691098 words of memory out of 5000000
- 40018 multiletter control sequences out of 15000+600000
- 488446 words of font info for 87 fonts, out of 8000000 for 9000
- 62 hyphenation exceptions out of 8191
- 128i,15n,122p,384b,514s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 22376 strings out of 480204
+ 438119 string characters out of 5895011
+ 687592 words of memory out of 5000000
+ 39803 multiletter control sequences out of 15000+600000
+ 484612 words of font info for 82 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 99i,15n,104p,384b,514s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive
@@ -1300,7 +1257,7 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy6.pfb>
-Output written on talk.pdf (5 pages, 4547596 bytes).
+Output written on talk.pdf (5 pages, 4545811 bytes).
 PDF statistics:
  230 PDF objects out of 1000 (max. 8388607)
  126 compressed objects within 2 object streams
