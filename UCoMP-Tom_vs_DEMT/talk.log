@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.5.3)  10 MAR 2025 19:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.5.3)  10 MAR 2025 21:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -883,13 +883,13 @@ Dictionary: translator-numbers-dictionary, Language: English
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (./talk.nav)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 110
+LaTeX Font Info:    Trying to load font information for U+msa on input line 112
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 110
+LaTeX Font Info:    Trying to load font information for U+msb on input line 112
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -900,38 +900,38 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <fig/x_comp1074_1_105_Rsun.jpg, id=31, 903.375pt x 501.875pt>
 File: fig/x_comp1074_1_105_Rsun.jpg Graphic file (type jpg)
 <use fig/x_comp1074_1_105_Rsun.jpg>
-Package pdftex.def Info: fig/x_comp1074_1_105_Rsun.jpg  used on input line 130.
+Package pdftex.def Info: fig/x_comp1074_1_105_Rsun.jpg  used on input line 132.
 
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/x_comp1074_1_145_Rsun.jpg, id=33, 903.375pt x 501.875pt>
 File: fig/x_comp1074_1_145_Rsun.jpg Graphic file (type jpg)
 <use fig/x_comp1074_1_145_Rsun.jpg>
-Package pdftex.def Info: fig/x_comp1074_1_145_Rsun.jpg  used on input line 130.
+Package pdftex.def Info: fig/x_comp1074_1_145_Rsun.jpg  used on input line 132.
 
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/x_comp1074_1_195_Rsun.jpg, id=35, 903.375pt x 501.875pt>
 File: fig/x_comp1074_1_195_Rsun.jpg Graphic file (type jpg)
 <use fig/x_comp1074_1_195_Rsun.jpg>
-Package pdftex.def Info: fig/x_comp1074_1_195_Rsun.jpg  used on input line 130.
+Package pdftex.def Info: fig/x_comp1074_1_195_Rsun.jpg  used on input line 132.
 
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/x_comp1074_synth_1_105_Rsun.jpg, id=37, 903.375pt x 501.875pt>
 File: fig/x_comp1074_synth_1_105_Rsun.jpg Graphic file (type jpg)
 <use fig/x_comp1074_synth_1_105_Rsun.jpg>
 Package pdftex.def Info: fig/x_comp1074_synth_1_105_Rsun.jpg  used on input lin
-e 130.
+e 132.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/x_comp1074_synth_1_145_Rsun.jpg, id=39, 903.375pt x 501.875pt>
 File: fig/x_comp1074_synth_1_145_Rsun.jpg Graphic file (type jpg)
 <use fig/x_comp1074_synth_1_145_Rsun.jpg>
 Package pdftex.def Info: fig/x_comp1074_synth_1_145_Rsun.jpg  used on input lin
-e 130.
+e 132.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/x_comp1074_synth_1_195_Rsun.jpg, id=41, 903.375pt x 501.875pt>
 File: fig/x_comp1074_synth_1_195_Rsun.jpg Graphic file (type jpg)
 <use fig/x_comp1074_synth_1_195_Rsun.jpg>
 Package pdftex.def Info: fig/x_comp1074_synth_1_195_Rsun.jpg  used on input lin
-e 130.
+e 132.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 Package epstopdf Info: Source file: <fig/comparison_ucomp_Sept2022_tom_vs_synth
 _E1074_ratio_range1_090-1_200_Rsun.eps>
@@ -944,7 +944,7 @@ _E1074_ratio_range1_090-1_200_Rsun-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=fig/comparison_ucomp_Sept2
 022_tom_vs_synth_E1074_ratio_range1_090-1_200_Rsun-eps-converted-to.pdf fig/com
 parison_ucomp_Sept2022_tom_vs_synth_E1074_ratio_range1_090-1_200_Rsun.eps>
-(epstopdf)             \includegraphics on input line 130.
+(epstopdf)             \includegraphics on input line 132.
 Package epstopdf Info: Output file is already uptodate.
 <fig/comparison_ucomp_Sept2022_tom_vs_synth_E1074_ratio_range1_090-1_200_Rsun-e
 ps-converted-to.pdf, id=43, 505.89pt x 361.35pt>
@@ -953,7 +953,7 @@ sun-eps-converted-to.pdf Graphic file (type pdf)
 <use fig/comparison_ucomp_Sept2022_tom_vs_synth_E1074_ratio_range1_090-1_200_Rs
 un-eps-converted-to.pdf>
 Package pdftex.def Info: fig/comparison_ucomp_Sept2022_tom_vs_synth_E1074_ratio
-_range1_090-1_200_Rsun-eps-converted-to.pdf  used on input line 130.
+_range1_090-1_200_Rsun-eps-converted-to.pdf  used on input line 132.
 (pdftex.def)             Requested size: 95.8422pt x 68.45801pt.
 Package epstopdf Info: Source file: <fig/Average_Radial_Profiles_ucomp_Sept2022
 _tom_vs_synth_E1074.eps>
@@ -966,7 +966,7 @@ _tom_vs_synth_E1074-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=fig/Average_Radial_Profile
 s_ucomp_Sept2022_tom_vs_synth_E1074-eps-converted-to.pdf fig/Average_Radial_Pro
 files_ucomp_Sept2022_tom_vs_synth_E1074.eps>
-(epstopdf)             \includegraphics on input line 130.
+(epstopdf)             \includegraphics on input line 132.
 Package epstopdf Info: Output file is already uptodate.
 <fig/Average_Radial_Profiles_ucomp_Sept2022_tom_vs_synth_E1074-eps-converted-to
 .pdf, id=45, 505.89pt x 361.35pt>
@@ -975,10 +975,10 @@ ed-to.pdf Graphic file (type pdf)
 <use fig/Average_Radial_Profiles_ucomp_Sept2022_tom_vs_synth_E1074-eps-converte
 d-to.pdf>
 Package pdftex.def Info: fig/Average_Radial_Profiles_ucomp_Sept2022_tom_vs_synt
-h_E1074-eps-converted-to.pdf  used on input line 130.
+h_E1074-eps-converted-to.pdf  used on input line 132.
 (pdftex.def)             Requested size: 95.8422pt x 68.45801pt.
 
-Overfull \vbox (7.39482pt too high) detected at line 130
+Overfull \vbox (7.39482pt too high) detected at line 132
  []
 
 [2
@@ -992,38 +992,38 @@ onverted-to.pdf>]
 <fig/x_comp1079_1_105_Rsun.jpg, id=74, 903.375pt x 501.875pt>
 File: fig/x_comp1079_1_105_Rsun.jpg Graphic file (type jpg)
 <use fig/x_comp1079_1_105_Rsun.jpg>
-Package pdftex.def Info: fig/x_comp1079_1_105_Rsun.jpg  used on input line 150.
+Package pdftex.def Info: fig/x_comp1079_1_105_Rsun.jpg  used on input line 152.
 
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/x_comp1079_1_145_Rsun.jpg, id=76, 903.375pt x 501.875pt>
 File: fig/x_comp1079_1_145_Rsun.jpg Graphic file (type jpg)
 <use fig/x_comp1079_1_145_Rsun.jpg>
-Package pdftex.def Info: fig/x_comp1079_1_145_Rsun.jpg  used on input line 150.
+Package pdftex.def Info: fig/x_comp1079_1_145_Rsun.jpg  used on input line 152.
 
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/x_comp1079_1_195_Rsun.jpg, id=78, 903.375pt x 501.875pt>
 File: fig/x_comp1079_1_195_Rsun.jpg Graphic file (type jpg)
 <use fig/x_comp1079_1_195_Rsun.jpg>
-Package pdftex.def Info: fig/x_comp1079_1_195_Rsun.jpg  used on input line 150.
+Package pdftex.def Info: fig/x_comp1079_1_195_Rsun.jpg  used on input line 152.
 
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/x_comp1079_synth_1_105_Rsun.jpg, id=80, 903.375pt x 501.875pt>
 File: fig/x_comp1079_synth_1_105_Rsun.jpg Graphic file (type jpg)
 <use fig/x_comp1079_synth_1_105_Rsun.jpg>
 Package pdftex.def Info: fig/x_comp1079_synth_1_105_Rsun.jpg  used on input lin
-e 150.
+e 152.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/x_comp1079_synth_1_145_Rsun.jpg, id=82, 903.375pt x 501.875pt>
 File: fig/x_comp1079_synth_1_145_Rsun.jpg Graphic file (type jpg)
 <use fig/x_comp1079_synth_1_145_Rsun.jpg>
 Package pdftex.def Info: fig/x_comp1079_synth_1_145_Rsun.jpg  used on input lin
-e 150.
+e 152.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/x_comp1079_synth_1_195_Rsun.jpg, id=84, 903.375pt x 501.875pt>
 File: fig/x_comp1079_synth_1_195_Rsun.jpg Graphic file (type jpg)
 <use fig/x_comp1079_synth_1_195_Rsun.jpg>
 Package pdftex.def Info: fig/x_comp1079_synth_1_195_Rsun.jpg  used on input lin
-e 150.
+e 152.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 Package epstopdf Info: Source file: <fig/comparison_ucomp_Sept2022_tom_vs_synth
 _E1079_ratio_range1_090-1_200_Rsun.eps>
@@ -1036,7 +1036,7 @@ _E1079_ratio_range1_090-1_200_Rsun-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=fig/comparison_ucomp_Sept2
 022_tom_vs_synth_E1079_ratio_range1_090-1_200_Rsun-eps-converted-to.pdf fig/com
 parison_ucomp_Sept2022_tom_vs_synth_E1079_ratio_range1_090-1_200_Rsun.eps>
-(epstopdf)             \includegraphics on input line 150.
+(epstopdf)             \includegraphics on input line 152.
 Package epstopdf Info: Output file is already uptodate.
 <fig/comparison_ucomp_Sept2022_tom_vs_synth_E1079_ratio_range1_090-1_200_Rsun-e
 ps-converted-to.pdf, id=86, 505.89pt x 361.35pt>
@@ -1045,7 +1045,7 @@ sun-eps-converted-to.pdf Graphic file (type pdf)
 <use fig/comparison_ucomp_Sept2022_tom_vs_synth_E1079_ratio_range1_090-1_200_Rs
 un-eps-converted-to.pdf>
 Package pdftex.def Info: fig/comparison_ucomp_Sept2022_tom_vs_synth_E1079_ratio
-_range1_090-1_200_Rsun-eps-converted-to.pdf  used on input line 150.
+_range1_090-1_200_Rsun-eps-converted-to.pdf  used on input line 152.
 (pdftex.def)             Requested size: 95.8422pt x 68.45801pt.
 Package epstopdf Info: Source file: <fig/Average_Radial_Profiles_ucomp_Sept2022
 _tom_vs_synth_E1079.eps>
@@ -1058,7 +1058,7 @@ _tom_vs_synth_E1079-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=fig/Average_Radial_Profile
 s_ucomp_Sept2022_tom_vs_synth_E1079-eps-converted-to.pdf fig/Average_Radial_Pro
 files_ucomp_Sept2022_tom_vs_synth_E1079.eps>
-(epstopdf)             \includegraphics on input line 150.
+(epstopdf)             \includegraphics on input line 152.
 Package epstopdf Info: Output file is already uptodate.
 <fig/Average_Radial_Profiles_ucomp_Sept2022_tom_vs_synth_E1079-eps-converted-to
 .pdf, id=88, 505.89pt x 361.35pt>
@@ -1067,10 +1067,10 @@ ed-to.pdf Graphic file (type pdf)
 <use fig/Average_Radial_Profiles_ucomp_Sept2022_tom_vs_synth_E1079-eps-converte
 d-to.pdf>
 Package pdftex.def Info: fig/Average_Radial_Profiles_ucomp_Sept2022_tom_vs_synt
-h_E1079-eps-converted-to.pdf  used on input line 150.
+h_E1079-eps-converted-to.pdf  used on input line 152.
 (pdftex.def)             Requested size: 95.8422pt x 68.45801pt.
 
-Overfull \vbox (7.39482pt too high) detected at line 150
+Overfull \vbox (7.39482pt too high) detected at line 152
  []
 
 [3
@@ -1084,47 +1084,47 @@ onverted-to.pdf>]
 <fig/Ne_ucomp_1_105_Rsun.jpg, id=116, 903.375pt x 501.875pt>
 File: fig/Ne_ucomp_1_105_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_ucomp_1_105_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_ucomp_1_105_Rsun.jpg  used on input line 172.
+Package pdftex.def Info: fig/Ne_ucomp_1_105_Rsun.jpg  used on input line 174.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/Ne_aia_1_105_Rsun.jpg, id=118, 903.375pt x 501.875pt>
 File: fig/Ne_aia_1_105_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_aia_1_105_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_aia_1_105_Rsun.jpg  used on input line 172.
+Package pdftex.def Info: fig/Ne_aia_1_105_Rsun.jpg  used on input line 174.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/Ne_kcor_1_105_Rsun.jpg, id=120, 903.375pt x 501.875pt>
 File: fig/Ne_kcor_1_105_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_kcor_1_105_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_kcor_1_105_Rsun.jpg  used on input line 172.
+Package pdftex.def Info: fig/Ne_kcor_1_105_Rsun.jpg  used on input line 174.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/Ne_ucomp_1_145_Rsun.jpg, id=122, 903.375pt x 501.875pt>
 File: fig/Ne_ucomp_1_145_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_ucomp_1_145_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_ucomp_1_145_Rsun.jpg  used on input line 172.
+Package pdftex.def Info: fig/Ne_ucomp_1_145_Rsun.jpg  used on input line 174.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/Ne_aia_1_145_Rsun.jpg, id=124, 903.375pt x 501.875pt>
 File: fig/Ne_aia_1_145_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_aia_1_145_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_aia_1_145_Rsun.jpg  used on input line 172.
+Package pdftex.def Info: fig/Ne_aia_1_145_Rsun.jpg  used on input line 174.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/Ne_kcor_1_145_Rsun.jpg, id=126, 903.375pt x 501.875pt>
 File: fig/Ne_kcor_1_145_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_kcor_1_145_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_kcor_1_145_Rsun.jpg  used on input line 172.
+Package pdftex.def Info: fig/Ne_kcor_1_145_Rsun.jpg  used on input line 174.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/Ne_ucomp_1_195_Rsun.jpg, id=128, 903.375pt x 501.875pt>
 File: fig/Ne_ucomp_1_195_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_ucomp_1_195_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_ucomp_1_195_Rsun.jpg  used on input line 172.
+Package pdftex.def Info: fig/Ne_ucomp_1_195_Rsun.jpg  used on input line 174.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/Ne_aia_1_195_Rsun.jpg, id=130, 903.375pt x 501.875pt>
 File: fig/Ne_aia_1_195_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_aia_1_195_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_aia_1_195_Rsun.jpg  used on input line 172.
+Package pdftex.def Info: fig/Ne_aia_1_195_Rsun.jpg  used on input line 174.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
 <fig/Ne_kcor_1_195_Rsun.jpg, id=132, 903.375pt x 501.875pt>
 File: fig/Ne_kcor_1_195_Rsun.jpg Graphic file (type jpg)
 <use fig/Ne_kcor_1_195_Rsun.jpg>
-Package pdftex.def Info: fig/Ne_kcor_1_195_Rsun.jpg  used on input line 172.
+Package pdftex.def Info: fig/Ne_kcor_1_195_Rsun.jpg  used on input line 174.
 (pdftex.def)             Requested size: 109.537pt x 60.85034pt.
  [4
 
@@ -1143,7 +1143,7 @@ Package epstopdf Info: Source file: <fig/comparison_ucomp_vs_aia_ratio_range1_0
 (epstopdf)             Command: <repstopdf --outfile=fig/comparison_ucomp_vs_ai
 a_ratio_range1_090-1_200_Rsun-eps-converted-to.pdf fig/comparison_ucomp_vs_aia_
 ratio_range1_090-1_200_Rsun.eps>
-(epstopdf)             \includegraphics on input line 186.
+(epstopdf)             \includegraphics on input line 188.
 Package epstopdf Info: Output file is already uptodate.
 <fig/comparison_ucomp_vs_aia_ratio_range1_090-1_200_Rsun-eps-converted-to.pdf, 
 id=150, 505.89pt x 361.35pt>
@@ -1152,7 +1152,7 @@ pdf Graphic file (type pdf)
 <use fig/comparison_ucomp_vs_aia_ratio_range1_090-1_200_Rsun-eps-converted-to.p
 df>
 Package pdftex.def Info: fig/comparison_ucomp_vs_aia_ratio_range1_090-1_200_Rsu
-n-eps-converted-to.pdf  used on input line 186.
+n-eps-converted-to.pdf  used on input line 188.
 (pdftex.def)             Requested size: 154.03183pt x 110.02136pt.
 Package epstopdf Info: Source file: <fig/comparison_kcor_vs_ucomp_ratio_range1_
 090-1_200_Rsun.eps>
@@ -1165,7 +1165,7 @@ Package epstopdf Info: Source file: <fig/comparison_kcor_vs_ucomp_ratio_range1_
 (epstopdf)             Command: <repstopdf --outfile=fig/comparison_kcor_vs_uco
 mp_ratio_range1_090-1_200_Rsun-eps-converted-to.pdf fig/comparison_kcor_vs_ucom
 p_ratio_range1_090-1_200_Rsun.eps>
-(epstopdf)             \includegraphics on input line 186.
+(epstopdf)             \includegraphics on input line 188.
 Package epstopdf Info: Output file is already uptodate.
 <fig/comparison_kcor_vs_ucomp_ratio_range1_090-1_200_Rsun-eps-converted-to.pdf,
  id=152, 505.89pt x 361.35pt>
@@ -1174,7 +1174,7 @@ File: fig/comparison_kcor_vs_ucomp_ratio_range1_090-1_200_Rsun-eps-converted-to
 <use fig/comparison_kcor_vs_ucomp_ratio_range1_090-1_200_Rsun-eps-converted-to.
 pdf>
 Package pdftex.def Info: fig/comparison_kcor_vs_ucomp_ratio_range1_090-1_200_Rs
-un-eps-converted-to.pdf  used on input line 186.
+un-eps-converted-to.pdf  used on input line 188.
 (pdftex.def)             Requested size: 154.03183pt x 110.02136pt.
 Package epstopdf Info: Source file: <fig/Average_Radial_Profiles_ucomp_vs_aia.e
 ps>
@@ -1187,7 +1187,7 @@ ps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=fig/Average_Radial_Profile
 s_ucomp_vs_aia-eps-converted-to.pdf fig/Average_Radial_Profiles_ucomp_vs_aia.ep
 s>
-(epstopdf)             \includegraphics on input line 186.
+(epstopdf)             \includegraphics on input line 188.
 Package epstopdf Info: Output file is already uptodate.
 <fig/Average_Radial_Profiles_ucomp_vs_aia-eps-converted-to.pdf, id=154, 505.89p
 t x 361.35pt>
@@ -1195,7 +1195,7 @@ File: fig/Average_Radial_Profiles_ucomp_vs_aia-eps-converted-to.pdf Graphic fil
 e (type pdf)
 <use fig/Average_Radial_Profiles_ucomp_vs_aia-eps-converted-to.pdf>
 Package pdftex.def Info: fig/Average_Radial_Profiles_ucomp_vs_aia-eps-converted
--to.pdf  used on input line 186.
+-to.pdf  used on input line 188.
 (pdftex.def)             Requested size: 154.03183pt x 110.02136pt.
 Package epstopdf Info: Source file: <fig/Average_Radial_Profiles_kcor_vs_ucomp.
 eps>
@@ -1208,7 +1208,7 @@ eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=fig/Average_Radial_Profile
 s_kcor_vs_ucomp-eps-converted-to.pdf fig/Average_Radial_Profiles_kcor_vs_ucomp.
 eps>
-(epstopdf)             \includegraphics on input line 186.
+(epstopdf)             \includegraphics on input line 188.
 Package epstopdf Info: Output file is already uptodate.
 <fig/Average_Radial_Profiles_kcor_vs_ucomp-eps-converted-to.pdf, id=156, 505.89
 pt x 361.35pt>
@@ -1216,10 +1216,10 @@ File: fig/Average_Radial_Profiles_kcor_vs_ucomp-eps-converted-to.pdf Graphic fi
 le (type pdf)
 <use fig/Average_Radial_Profiles_kcor_vs_ucomp-eps-converted-to.pdf>
 Package pdftex.def Info: fig/Average_Radial_Profiles_kcor_vs_ucomp-eps-converte
-d-to.pdf  used on input line 186.
+d-to.pdf  used on input line 188.
 (pdftex.def)             Requested size: 154.03183pt x 110.02136pt.
 
-Overfull \vbox (9.3975pt too high) detected at line 186
+Overfull \vbox (9.3975pt too high) detected at line 188
  []
 
 [5
@@ -1227,7 +1227,9 @@ Overfull \vbox (9.3975pt too high) detected at line 186
  <./fig/comparison_ucomp_vs_aia_ratio_range1_090-1_200_Rsun-eps-converted-to.pd
 f> <./fig/comparison_kcor_vs_ucomp_ratio_range1_090-1_200_Rsun-eps-converted-to
 .pdf> <./fig/Average_Radial_Profiles_ucomp_vs_aia-eps-converted-to.pdf> <./fig/
-Average_Radial_Profiles_kcor_vs_ucomp-eps-converted-to.pdf>]
+Average_Radial_Profiles_kcor_vs_ucomp-eps-converted-to.pdf>] [6
+
+]
 \tf@nav=\write7
 \openout7 = `talk.nav'.
 
@@ -1242,25 +1244,30 @@ Package rerunfilecheck Info: File `talk.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22376 strings out of 480204
- 438119 string characters out of 5895011
- 687592 words of memory out of 5000000
- 39803 multiletter control sequences out of 15000+600000
- 484612 words of font info for 82 fonts, out of 8000000 for 9000
+ 22403 strings out of 480204
+ 438369 string characters out of 5895011
+ 689592 words of memory out of 5000000
+ 39819 multiletter control sequences out of 15000+600000
+ 487736 words of font info for 93 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  99i,15n,104p,384b,514s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy6.pfb>
-Output written on talk.pdf (5 pages, 4545811 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmssi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb
+>
+Output written on talk.pdf (6 pages, 4590596 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
- 126 compressed objects within 2 object streams
- 11 named destinations out of 1000 (max. 500000)
+ 262 PDF objects out of 1000 (max. 8388607)
+ 147 compressed objects within 2 object streams
+ 13 named destinations out of 1000 (max. 500000)
  372 words of extra memory for PDF output out of 10000 (max. 10000000)
 
