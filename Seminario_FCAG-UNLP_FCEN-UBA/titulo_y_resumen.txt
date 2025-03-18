@@ -1,0 +1,8 @@
+TITULO:
+Tomografía de la Corona Solar: Diagnósticos y Aplicaciones
+
+AUTOR:
+Alberto Marcos Vásquez
+
+RESUMEN:
+La corona es la región atmosférica del Sol donde el viento solar es calentado y acelerado, y se energizan eventos impulsivos tales como eyecciones de masa coronal. Su estudio observacional es central al avance de la comprensión de la relación Sol-Tierra y la meteorología espacial. A tal fin, la tomografía solar rotacional es la única técnica observacional capaz de proveer una descripción cuantitativa de la distribución tridmensional de parámetros fundamentales del plasma coronal a escala global. En esta charla describiremos el estado actual de la técnica, los diagnósticos que provee aplicada a imágenes solares tomadas en distintas longitudes de onda por telescopios terrestres y espaciales, y ejemplos recientes de aplicación. Discutiremos proyectos actuales y perspectivas futuras, incluyendo temas para trabajos de tesis.
